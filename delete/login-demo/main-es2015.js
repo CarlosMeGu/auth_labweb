@@ -56,7 +56,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<footer class=\"bg-light p-3 text-center\">\n    <div class=\"logo\"></div>\n    <p>\n      Sample project provided by\n      <a href=\"https://auth0.com\">Auth0</a>\n    </p>\n  </footer>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("");
 
 /***/ }),
 
@@ -69,7 +69,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"text-center hero my-5\">\n    <img class=\"mb-3 app-logo\" src=\"../../assets/logo.png\" alt=\"Angular logo\" />\n    <h1 class=\"mb-4\">Angular Sample Project</h1>\n\n    <p class=\"lead\">\n      This is a sample application that demonstrates an authentication flow for an\n      SPA, using\n      <a href=\"https://angular.io\">Angular</a>\n    </p>\n  </div>\n\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"text-center hero my-5\">\n    <img class=\"mb-3 app-logo\" src=\"../../assets/logo.png\" alt=\"Angular logo\" />\n    <h1 class=\"mb-4\">Login Test</h1>\n\n\n  </div>\n\n");
 
 /***/ }),
 
@@ -82,7 +82,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"next-steps my-5\">\n    <h2 class=\"my-5 text-center\">What can I do next?</h2>\n\n    <div class=\"row\">\n      <div class=\"col-md-5 mb-4\">\n        <h6 class=\"mb-3\">\n          <a href=\"https://auth0.com/docs/connections\">\n            <fa-icon [icon]=\"faLink\"></fa-icon> Configure other identity providers\n          </a>\n        </h6>\n        <p>\n          Auth0 supports social providers as Facebook, Twitter, Instagram and\n          100+, Enterprise providers as Microsoft Office 365, Google Apps, Azure,\n          and more. You can also use any OAuth2 Authorization Server.\n        </p>\n      </div>\n\n      <div class=\"col-md\"></div>\n\n      <div class=\"col-md-5 mb-4\">\n        <h6 class=\"mb-3\">\n          <a href=\"https://auth0.com/docs/multifactor-authentication\">\n            <fa-icon [icon]=\"faLink\"></fa-icon> Enable Multifactor Authentication\n          </a>\n        </h6>\n        <p>\n          Add an extra layer of security by enabling Multi-factor Authentication,\n          requiring your users to provide more than one piece of identifying\n          information. Push notifications, authenticator apps, SMS, and DUO\n          Security are supported.\n        </p>\n      </div>\n    </div>\n\n    <div class=\"row\">\n      <div class=\"col-md-5 mb-4\">\n        <h6 class=\"mb-3\">\n          <a href=\"https://auth0.com/docs/anomaly-detection\">\n            <fa-icon [icon]=\"faLink\"></fa-icon> Anomaly Detection\n          </a>\n        </h6>\n        <p>\n          Auth0 can detect anomalies and stop malicious attempts to access your\n          application. Anomaly detection can alert you and your users of\n          suspicious activity, as well as block further login attempts.\n        </p>\n      </div>\n\n      <div class=\"col-md\"></div>\n\n      <div class=\"col-md-5 mb-4\">\n        <h6 class=\"mb-3\">\n          <a href=\"https://auth0.com/docs/rules\">\n            <fa-icon [icon]=\"faLink\"></fa-icon> Learn About Rules\n          </a>\n        </h6>\n        <p>\n          Rules are JavaScript functions that execute when a user authenticates to\n          your application. They run once the authentication process is complete,\n          and you can use them to customize and extend Auth0's capabilities.\n        </p>\n      </div>\n    </div>\n  </div>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<div class=\"next-steps my-5\">\n\n  </div>\n");
 
 /***/ }),
 
